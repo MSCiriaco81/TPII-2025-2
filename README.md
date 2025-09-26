@@ -6,6 +6,7 @@ Este repositório contém implementações e explicações dos Padrões de Proje
 
 
 
+
 ## Estrutura do Projeto
 
 ```plaintext
@@ -75,6 +76,16 @@ PadrãoGoF/
 - [Visitor](TPII-2025-2/PadraoGoF/Comportamental/Visitor/README.md)
 
 Cada subpasta de padrão possui um README próprio com explicações, exemplos em JavaScript, Python e Java, instruções de execução e detalhes sobre vantagens, desvantagens e aplicações.
+
+---
+
+---
+
+## Exercícios
+
+O repositório também conta com uma seção de exercícios práticos, que demonstra a aplicação dos padrões em exemplos completos nas três linguagens:
+
+- [Acesse os Exercícios](TPII-2025-2/PadraoGoF/Exercicios/README.md)
 
 ---
 
