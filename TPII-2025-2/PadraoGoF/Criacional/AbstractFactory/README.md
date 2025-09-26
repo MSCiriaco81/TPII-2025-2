@@ -1,3 +1,7 @@
+
+---
+
+
 # Abstract Factory - Padrão de Projeto Criacional
 
 **Resumo:**
@@ -24,11 +28,6 @@ O Abstract Factory é utilizado quando o sistema precisa ser independente de com
 
 ---
 
-## Exemplos
-- AbstractFactory01.java: Exemplo de criação de produtos do tipo A e B por diferentes fábricas.
-- AbstractFactory02.java: Exemplo de lojas físicas e virtuais criando produtos eletrônicos e de moda.
-- Exercicio01.java: Exemplo de criação de veículos terrestres e aéreos.
-
 ## Como executar
 
 ### Java
@@ -49,6 +48,18 @@ python AbstractFactory02.py
 ```bash
 node AbstractFactory01.js
 node AbstractFactory02.js
+node Exercicio01.js
+```
+
+## Exercício prático deste padrão
+
+> Exemplos completos de Abstract Factory:
+> - [Exercicio01.js (JavaScript)](../../Exercicios/Exercicio01.js)
+> - [Exercicio01.py (Python)](../../Exercicios/Exercicio01.py)
+> - [Exercicio01.java (Java)](../../Exercicios/Exercicio01.java)
+
+## Referências
+- [Refactoring Guru - Abstract Factory](https://refactoring.guru/pt-br/design-patterns/abstract-factory)
 node Exercicio01.js
 ```
 

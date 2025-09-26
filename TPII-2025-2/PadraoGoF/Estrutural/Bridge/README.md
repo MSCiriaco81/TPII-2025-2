@@ -1,3 +1,7 @@
+
+---
+
+
 # Bridge - Padrão de Projeto Estrutural
 
 **Resumo:**
@@ -23,9 +27,6 @@ O Bridge desacopla uma abstração de sua implementação, permitindo que as dua
 
 ---
 
-## Exemplo
-- Bridge01.java: Exemplo de formas (círculo, quadrado) com diferentes cores.
-
 ## Como executar
 
 ### Java
@@ -43,6 +44,13 @@ python Bridge01.py
 ```bash
 node Bridge01.js
 ```
+
+## Exercício prático deste padrão
+
+> Exemplos completos de Bridge:
+> - [Pizza.js (JavaScript)](../../Exercicios/Pizza.js)
+> - [Pizza.py (Python)](../../Exercicios/Pizza.py)
+> - [Pizza.java (Java)](../../Exercicios/Pizza.java)
 
 ## Referências
 - [Refactoring Guru - Bridge](https://refactoring.guru/pt-br/design-patterns/bridge)

@@ -1,3 +1,7 @@
+
+---
+
+
 # Composite - Padrão de Projeto Estrutural
 
 **Resumo:**
@@ -23,9 +27,6 @@ O Composite permite tratar objetos individuais e composições de objetos de man
 
 ---
 
-## Exemplo
-- Composite01.java: Exemplo de cesta de frutas composta por folhas e containers.
-
 ## Como executar
 
 ### Java
@@ -43,6 +44,13 @@ python Composite01.py
 ```bash
 node Composite01.js
 ```
+
+## Exercício prático deste padrão
+
+> Exemplos completos de Composite (e Decorator):
+> - [pizzariaCompositeAndDecorator.js (JavaScript)](../../Exercicios/pizzariaCompositeAndDecorator.js)
+> - [pizzariaCompositeAndDecorator.py (Python)](../../Exercicios/pizzariaCompositeAndDecorator.py)
+> - [pizzariaCompositeAndDecorator.java (Java)](../../Exercicios/pizzariaCompositeAndDecorator.java)
 
 ## Referências
 - [Refactoring Guru - Composite](https://refactoring.guru/pt-br/design-patterns/composite)

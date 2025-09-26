@@ -1,3 +1,7 @@
+
+---
+
+
 # Singleton - Padrão de Projeto Criacional
 
 **Resumo:**
@@ -15,18 +19,13 @@ O Singleton é utilizado para controlar o acesso a recursos compartilhados, como
 
 ### Desvantagens
 - Pode dificultar testes unitários devido ao estado global.
-- Pode introduzir dependências ocultas no código.
-- Não é indicado para ambientes multithread sem sincronização adequada.
+- Pode introduzir problemas de concorrência se não for implementado corretamente.
 
 ### Quando Usar
-- Quando apenas uma instância de uma classe deve existir.
-- Quando o acesso global e controlado a um recurso é necessário.
+- Quando é necessário garantir uma única instância de uma classe.
+- Quando o acesso global a um recurso é necessário.
 
 ---
-
-## Exemplos
-- Singleton01.java: Exemplo de contador global.
-- Singleton02.java: Exemplo de aluno único com notas.
 
 ## Como executar
 
@@ -48,6 +47,22 @@ python Singleton02.py
 ```bash
 node Singleton01.js
 node Singleton02.js
+```
+
+## Exercício prático deste padrão
+
+> Exemplos completos de Singleton:
+> - [Singleton01.js (JavaScript)](./Singleton01.js)
+> - [Singleton01.py (Python)](./Singleton01.py)
+> - [Singleton01.java (Java)](./Singleton01.java)
+
+## Referências
+- [Documentação Oracle - Singleton](https://docs.oracle.com/javase/tutorial/java/concepts/singleton.html)
+- [Refactoring Guru - Singleton](https://refactoring.guru/pt-br/design-patterns/singleton)
+
+## Referências
+- [Documentação Oracle - Singleton](https://docs.oracle.com/javase/tutorial/java/concepts/singleton.html)
+- [Refactoring Guru - Singleton](https://refactoring.guru/pt-br/design-patterns/singleton)
 ```
 
 ## Referências

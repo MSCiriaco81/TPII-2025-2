@@ -1,3 +1,7 @@
+
+---
+
+
 # Decorator - Padrão de Projeto Estrutural
 
 **Resumo:**
@@ -28,6 +32,7 @@ O Decorator envolve um objeto original com um novo objeto que adiciona funcional
 - Decorator01.py: Versão Python do exemplo de notificação.
 - Decorator01.js: Versão JavaScript do exemplo de notificação.
 
+
 ## Como executar
 
 ### Java
@@ -45,6 +50,13 @@ python Decorator01.py
 ```bash
 node Decorator01.js
 ```
+
+## Exercício prático deste padrão
+
+> Exemplos completos de Decorator (e Composite):
+> - [pizzariaCompositeAndDecorator.js (JavaScript)](../../Exercicios/pizzariaCompositeAndDecorator.js)
+> - [pizzariaCompositeAndDecorator.py (Python)](../../Exercicios/pizzariaCompositeAndDecorator.py)
+> - [pizzariaCompositeAndDecorator.java (Java)](../../Exercicios/pizzariaCompositeAndDecorator.java)
 
 ## Referências
 - [Refactoring Guru - Decorator](https://refactoring.guru/pt-br/design-patterns/decorator)
