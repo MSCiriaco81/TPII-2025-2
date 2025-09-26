@@ -122,16 +122,16 @@ class Order {
 
 public class pizzariaCompositeAndDecorator {
     public static void main(String[] args) {
-        Map<String, String> cliente1 = new HashMap<>();
-        cliente1.put("nome", "Eduardo");
-        cliente1.put("email", "eduardo@email.com");
-        cliente1.put("sms", "555-1234");
-        cliente1.put("whatsapp", "555-1234");
-        Map<String, String> cliente2 = new HashMap<>();
-        cliente2.put("nome", "Carlos");
-        cliente2.put("email", "carlos@email.com");
-        cliente2.put("sms", "555-5678");
-        cliente2.put("whatsapp", "555-5678");
+    Map<String, String> cliente1 = new HashMap<>();
+    cliente1.put("nome", "Paul");
+    cliente1.put("email", "atreides@email.com");
+    cliente1.put("sms", "555-1234");
+    cliente1.put("whatsapp", "555-1234");
+    Map<String, String> cliente2 = new HashMap<>();
+    cliente2.put("nome", "Alia");
+    cliente2.put("email", "alia@email.com");
+    cliente2.put("sms", "555-5678");
+    cliente2.put("whatsapp", "555-5678");
 
         Product pizzaPortuguesa = new Product("Pizza Portuguesa", 40.00);
         Product pizzaQueijo = new Product("Pizza de Queijo", 30.00);
@@ -152,23 +152,23 @@ public class pizzariaCompositeAndDecorator {
         Order pedido1 = new Order(cliente1, comboSalgado);
         Order pedido2 = new Order(cliente2, comboDoce);
 
-        System.out.println("Pedido 1");
-        System.out.println(pedido1.generateSummary());
+    System.out.println("Pedido 1");
+    System.out.println(pedido1.generateSummary());
 
         NotifierComponent notifier = new Notifier();
         notifier = new EmailNotifier(notifier);
         notifier = new SmsNotifier(notifier);
         notifier = new WhatsAppNotifier(notifier);
 
-        System.out.println("\nCHECKOUT\n");
-        pedido1.checkout(notifier);
+    System.out.println("\nCHECKOUT\n");
+    pedido1.checkout(notifier);
 
-        System.out.println("\n##########################\n");
+    System.out.println("\n##########################\n");
 
-        System.out.println("Pedido 2");
-        System.out.println(pedido2.generateSummary());
+    System.out.println("Pedido 2");
+    System.out.println(pedido2.generateSummary());
 
-        System.out.println("\nCHECKOUT\n");
-        pedido2.checkout(notifier);
+    System.out.println("\nCHECKOUT\n");
+    pedido2.checkout(notifier);
     }
 }

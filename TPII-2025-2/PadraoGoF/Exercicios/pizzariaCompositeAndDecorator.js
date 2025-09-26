@@ -154,15 +154,15 @@ Total: R$${this.getTotal().toFixed(2)}
 
 // Teste do sistema
 const cliente1 = {
-    nome: "Eduardo",
-    email: "eduardo@email.com",
+    nome: "Paul",
+    email: "atreides@email.com",
     sms: "555-1234",
     whatsapp: "555-1234"
 };
 
 const cliente2 = {
-    nome: "Carlos",
-    email: "carlos@email.com", 
+    nome: "Alia",
+    email: "alia@email.com",
     sms: "555-5678",
     whatsapp: "555-5678"
 };
@@ -189,9 +189,6 @@ const comboDoce = new ItemBundle("Combo Doce")
 // Criação dos pedidos
 const pedido1 = new Order(cliente1, comboSalgado);
 const pedido2 = new Order(cliente2, comboDoce);
-
-console.log("Pedido 1");
-console.log(pedido1.generateSummary());
 
 console.log("Pedido 1");
 console.log(pedido1.generateSummary());
