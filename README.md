@@ -81,11 +81,13 @@ Cada subpasta de padrão possui um README próprio com explicações, exemplos e
 
 ---
 
+
 ## Exercícios
 
 O repositório também conta com uma seção de exercícios práticos, que demonstra a aplicação dos padrões em exemplos completos nas três linguagens:
 
 - [Acesse os Exercícios](TPII-2025-2/PadraoGoF/Exercicios/README.md)
+	- [P1 – Exercícios Pré-Prova](TPII-2025-2/PadraoGoF/Exercicios/P1/README.md): Exercícios referentes à atividade anterior à primeira prova do semestre, com exemplos de Factory, Abstract Factory, Builder, Prototype e Singleton em JavaScript.
 
 ---
 

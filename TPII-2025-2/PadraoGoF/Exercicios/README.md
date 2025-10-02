@@ -3,6 +3,11 @@
 
 Este diretório contém exercícios práticos de aplicação dos padrões de projeto estudados. Cada arquivo implementa um ou mais padrões, com exemplos em JavaScript, Python e Java.
 
+
+## Subpastas
+
+- [P1 – Exercícios Pré-Prova](./P1/README.md): Exercícios referentes à atividade anterior à primeira prova do semestre, com exemplos de Factory, Abstract Factory, Builder, Prototype e Singleton em JavaScript.
+
 ## Descrição dos Arquivos
 
 - **Exercicio01.java / Exercicio01.py / Exercicio01.js**
