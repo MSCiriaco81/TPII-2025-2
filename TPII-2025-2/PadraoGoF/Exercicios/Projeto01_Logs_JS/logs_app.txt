@@ -1,0 +1,2 @@
+[ARQUIVO][INFO] Este é um log de informação.
+[ARQUIVO][WARNING] Este é um aviso (warning).
