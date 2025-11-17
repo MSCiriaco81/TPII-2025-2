@@ -25,5 +25,26 @@ O Interpreter é útil para processar linguagens simples, como expressões matem
 ## Exemplo
 (Será adicionado mais tarde)
 
+## Como executar
+
+### Java
+```bash
+# Compile e execute os exemplos Java desta pasta
+```
+
+### Python
+```bash
+# Execute os exemplos Python desta pasta
+```
+
+### JavaScript
+```bash
+# Execute os exemplos JavaScript desta pasta (ex.: node Interpreter01.js)
+```
+
+## Exercício prático deste padrão
+
+Consulte a pasta `Exercicios` para exemplos relacionados.
+
 ## Referências
-- [Refactoring Guru - Interpreter](https://refactoring.guru/pt-br/design-patterns/interpreter)
+- [Refactoring Guru - Interpreter](https://refactoring.guru/pt-br/design-patterns/interpreter) 

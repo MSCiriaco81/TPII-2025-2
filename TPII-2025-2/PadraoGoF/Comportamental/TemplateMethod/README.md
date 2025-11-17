@@ -26,5 +26,26 @@ O Template Method permite que subclasses redefinam certos passos de um algoritmo
 ## Exemplo
 (Será adicionado mais tarde)
 
+## Como executar
+
+### Java
+```bash
+# Compile e execute os exemplos Java desta pasta
+```
+
+### Python
+```bash
+# Execute os exemplos Python desta pasta
+```
+
+### JavaScript
+```bash
+# Execute os exemplos JavaScript desta pasta (ex.: node TemplateMethod01.js)
+```
+
+## Exercício prático deste padrão
+
+Consulte a pasta `Exercicios` para exemplos relacionados.
+
 ## Referências
-- [Refactoring Guru - Template Method](https://refactoring.guru/pt-br/design-patterns/template-method)
+- [Refactoring Guru - Template Method](https://refactoring.guru/pt-br/design-patterns/template-method) 

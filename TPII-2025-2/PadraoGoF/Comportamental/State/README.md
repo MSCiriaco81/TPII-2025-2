@@ -26,5 +26,26 @@ O State encapsula os estados possíveis de um objeto em classes separadas, permi
 ## Exemplo
 (Será adicionado mais tarde)
 
+## Como executar
+
+### Java
+```bash
+# Compile e execute os exemplos Java desta pasta
+```
+
+### Python
+```bash
+# Execute os exemplos Python desta pasta
+```
+
+### JavaScript
+```bash
+# Execute os exemplos JavaScript desta pasta (ex.: node State01.js)
+```
+
+## Exercício prático deste padrão
+
+Consulte a pasta `Exercicios` para exemplos relacionados.
+
 ## Referências
-- [Refactoring Guru - State](https://refactoring.guru/pt-br/design-patterns/state)
+- [Refactoring Guru - State](https://refactoring.guru/pt-br/design-patterns/state) 

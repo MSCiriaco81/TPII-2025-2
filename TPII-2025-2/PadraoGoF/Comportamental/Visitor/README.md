@@ -26,5 +26,26 @@ O Visitor separa algoritmos da estrutura de dados, facilitando a adição de nov
 ## Exemplo
 (Será adicionado mais tarde)
 
+## Como executar
+
+### Java
+```bash
+# Compile e execute os exemplos Java desta pasta
+```
+
+### Python
+```bash
+# Execute os exemplos Python desta pasta
+```
+
+### JavaScript
+```bash
+# Execute os exemplos JavaScript desta pasta (ex.: node Visitor01.js)
+```
+
+## Exercício prático deste padrão
+
+Consulte a pasta `Exercicios` para exemplos relacionados.
+
 ## Referências
-- [Refactoring Guru - Visitor](https://refactoring.guru/pt-br/design-patterns/visitor)
+- [Refactoring Guru - Visitor](https://refactoring.guru/pt-br/design-patterns/visitor) 

@@ -25,5 +25,26 @@ O Flyweight compartilha dados comuns entre múltiplos objetos, reduzindo o consu
 ## Exemplo
 (Será adicionado mais tarde)
 
+## Como executar
+
+### Java
+```bash
+# Compile e execute os exemplos Java desta pasta
+```
+
+### Python
+```bash
+# Execute os exemplos Python desta pasta
+```
+
+### JavaScript
+```bash
+# Execute os exemplos JavaScript desta pasta (quando houver arquivos .js)
+```
+
+## Exercício prático deste padrão
+
+Consulte os exemplos relacionados na pasta `Exercicios` do repositório.
+
 ## Referências
-- [Refactoring Guru - Flyweight](https://refactoring.guru/pt-br/design-patterns/flyweight)
+- [Refactoring Guru - Flyweight](https://refactoring.guru/pt-br/design-patterns/flyweight) 

@@ -26,5 +26,26 @@ O Mediator centraliza a comunicação entre objetos, evitando que eles se refira
 ## Exemplo
 (Será adicionado mais tarde)
 
+## Como executar
+
+### Java
+```bash
+# Compile e execute os exemplos Java desta pasta
+```
+
+### Python
+```bash
+# Execute os exemplos Python desta pasta
+```
+
+### JavaScript
+```bash
+# Execute os exemplos JavaScript desta pasta (ex.: node Mediator01.js)
+```
+
+## Exercício prático deste padrão
+
+Consulte a pasta `Exercicios` para exemplos relacionados.
+
 ## Referências
-- [Refactoring Guru - Mediator](https://refactoring.guru/pt-br/design-patterns/mediator)
+- [Refactoring Guru - Mediator](https://refactoring.guru/pt-br/design-patterns/mediator) 
